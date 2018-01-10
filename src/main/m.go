@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"base"
 )
 
 func main() {
-	fmt.Println("hello bb")
+	base.D1();
 }
