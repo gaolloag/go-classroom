@@ -1,5 +1,5 @@
 //冒泡法
-package algorithm
+package sort
 
 import "fmt"
 
