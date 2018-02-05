@@ -7,5 +7,5 @@ import (
 func main() {
 	//base.D1();
 	//algorithm.BubbleSort();
-	sort.Selection()
+	sort.Insertion()
 }
